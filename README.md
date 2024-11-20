@@ -1,17 +1,27 @@
-👋 Hi, I’m @Samyukthavankadari
+# 👩‍💻 Samyuktha Vankadari  
 
-👀 I’m interested in software development, machine learning, and quality engineering.
-🌱 I’m currently learning advanced statistical learning techniques and formal software specification.
-💞️ I’m looking to collaborate on innovative projects related to data-driven applications and software quality improvements.
-📫 How to reach me: samyukthavankadari@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I enjoy solving puzzles and exploring new cuisines during my free time!
+**Graduate Student | Software Developer | Quality Engineer**  
 
- Passionate computer science graduate student at the University of Missouri Kansas City (expected graduation: May 2025). My expertise spans software development, quality engineering, and data-driven projects. I thrive on tackling complex problems, building innovative solutions, and collaborating with cross-functional teams.
+Welcome to my portfolio! I'm a Computer Science graduate student at the University of Missouri Kansas City, with a passion for building innovative software solutions and ensuring high-quality applications.  
 
-🌟 **Highlights**:
-**Professional Experience**: Former Quality Engineering Associate at Accenture, specializing in defect tracking, regression testing, and quality assurance best practices.
-**Projects**:
-**Value Insights Platform**: Aggregated financial data for major companies like Amazon and eBay, implemented interactive visualizations, and ensured platform reliability through rigorous testing.
-**Phishing Website Detection**: Developed a Python-based machine learning model for real-time phishing site identification, focusing on high accuracy and seamless browser integration.
-**Technical Skills**: Python, Java, HTML/CSS, JavaScript, SQL, Azure, GitHub.
+## 🌟 About Me  
+- **👀 Interests**: Software development, machine learning, and quality engineering.  
+- **🌱 Currently Learning**: Advanced statistical learning techniques and formal software specification.  
+- **💼 Professional Experience**: Former Quality Engineering Associate at Accenture, where I specialized in defect tracking, regression testing, and quality assurance practices.  
+- **📂 Key Projects**:  
+  - **Value Insights Platform**: Aggregated financial data from global companies and visualized insights with interactive dashboards.  
+  - **Phishing Website Detection**: Built a Python-based machine learning model to detect phishing websites in real time.  
+- **💞️ Collaboration**: Open to working on innovative data-driven applications and improving software quality processes.  
+
+## 🔧 Skills  
+- **Languages**: Python, Java, HTML, CSS, JavaScript, SQL  
+- **Developer Tools**: VS Code, Eclipse, GitHub, Microsoft Azure  
+- **Technologies/Frameworks**: Linux, JUnit  
+
+## 📫 Let's Connect!  
+- Email: **[samyukthavankadari@gmail.com](mailto:samyukthavankadari@gmail.com)**  
+- LinkedIn: **[linkedin.com/in/vankadari-samyuktha/](https://www.linkedin.com/in/vankadari-samyuktha/)**  
+- GitHub: **[@Samyukthavankadari](https://github.com/Samyukthavankadari)**  
+
+## ⚡ Fun Fact  
+When I’m not coding, I love solving puzzles and trying out new cuisines.  
