@@ -7,12 +7,11 @@
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy solving puzzles and exploring new cuisines during my free time!
 
-👋 Hi, I'm Samyuktha Vankadari, a passionate computer science graduate student at the University of Missouri Kansas City (expected graduation: May 2025). My expertise spans software development, quality engineering, and data-driven projects. I thrive on tackling complex problems, building innovative solutions, and collaborating with cross-functional teams.
+ passionate computer science graduate student at the University of Missouri Kansas City (expected graduation: May 2025). My expertise spans software development, quality engineering, and data-driven projects. I thrive on tackling complex problems, building innovative solutions, and collaborating with cross-functional teams.
 
 🌟 **Highlights**:
 **Professional Experience**: Former Quality Engineering Associate at Accenture, specializing in defect tracking, regression testing, and quality assurance best practices.
 **Projects**:
 **Value Insights Platform**: Aggregated financial data for major companies like Amazon and eBay, implemented interactive visualizations, and ensured platform reliability through rigorous testing.
 **Phishing Website Detection**: Developed a Python-based machine learning model for real-time phishing site identification, focusing on high accuracy and seamless browser integration.
-**Technical Skills**: Python, Java, HTML/CSS, JavaScript, SQL, Azure, GitHub, JUnit, and more.
-**Leadership**: Event Coordinator during my Bachelor's, adept at planning and executing successful events.
+**Technical Skills**: Python, Java, HTML/CSS, JavaScript, SQL, Azure, GitHub.
