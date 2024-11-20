@@ -3,7 +3,7 @@
 👀 I’m interested in software development, machine learning, and quality engineering.
 🌱 I’m currently learning advanced statistical learning techniques and formal software specification.
 💞️ I’m looking to collaborate on innovative projects related to data-driven applications and software quality improvements.
-📫 How to reach me: samyukthavankadari@gmail.com or LinkedIn
+📫 How to reach me: samyukthavankadari@gmail.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy solving puzzles and exploring new cuisines during my free time!
 
