@@ -7,7 +7,7 @@
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy solving puzzles and exploring new cuisines during my free time!
 
- passionate computer science graduate student at the University of Missouri Kansas City (expected graduation: May 2025). My expertise spans software development, quality engineering, and data-driven projects. I thrive on tackling complex problems, building innovative solutions, and collaborating with cross-functional teams.
+ Passionate computer science graduate student at the University of Missouri Kansas City (expected graduation: May 2025). My expertise spans software development, quality engineering, and data-driven projects. I thrive on tackling complex problems, building innovative solutions, and collaborating with cross-functional teams.
 
 🌟 **Highlights**:
 **Professional Experience**: Former Quality Engineering Associate at Accenture, specializing in defect tracking, regression testing, and quality assurance best practices.
